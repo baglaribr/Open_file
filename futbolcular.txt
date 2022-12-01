@@ -1,0 +1,23 @@
+Fernando Muslera,Galatasaray
+Dele Alli,Beşiktaş
+Mauro İcardi,Galatasaray
+Arda Güler,Fenerbahçe
+Rachid Ghezzal,Beşiktaş
+Dries Mertens,Galatasaray
+Enner Valencia,Fenerbahçe
+Nathan Redmond,Beşiktaş
+Muhammed Kerem Aktürkoğlu,Galatasaray
+Emre Mor,Fenerbahçe
+Gedson Fernandes,Beşiktaş
+Bafetimbi Gomis,Galatasaray
+Joshua King,Fenerbahçe
+Josef de Souza,Beşiktaş
+Yusuf Demir,Galatasaray
+Arthur Masuaku,Beşiktaş
+Altay Bayındır,Fenerbahçe
+Ersin Destanoğlu,Beşiktaş
+İsmail Yüksek,Fenerbahçe
+Juan Mata,Galatasaray
+Miguel Crespo,Fenerbahçe
+Cenk Tosun,Beşiktaş
+İrfan Can Kahveci,Fenerbahçe
